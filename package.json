@@ -1,0 +1,18 @@
+{
+    "name": "google-maps-lead-intel",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Complete local lead generation from Google Maps with contact enrichment, email validation, and lead scoring.",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "node src/main.js",
+        "test": "node --test test/scorer.test.js"
+    },
+    "dependencies": {
+        "apify": "^3",
+        "crawlee": "^3",
+        "puppeteer": "^23"
+    },
+    "author": "George The Developer",
+    "license": "ISC"
+}
