@@ -10,6 +10,10 @@ Turn any Google Maps search into a complete, ready to use outreach list. One cli
 
 Built for lead gen agencies, local SEO companies, appointment setting services, and cold email teams who need qualified local business leads fast.
 
+## 简介
+
+搜索Google Maps本地商家，自动获取联系方式、验证邮箱、商家评分。每次搜索$39。适合本地营销机构和销售团队。
+
 ## Pipeline Architecture
 
 ```mermaid
